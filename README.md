@@ -11,7 +11,7 @@ Skilled in **Python, Java, C++, JavaScript**, and experienced with **machine lea
 
 ---
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 ### 🚀 What I'm Up To
 
