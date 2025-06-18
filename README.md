@@ -67,7 +67,8 @@ Skilled in **Python, Java, C++, JavaScript**, and experienced with **machine lea
 
 - 🧠 [Brain-Tumor-Detection-XAI](https://github.com/lokesh8n8/Brain-Tumor-Detection-XAI)  
   A Deep Learning-based approach for Brain Tumor Detection using Convolutional Neural Networks (CNNs), enhanced with Explainable AI techniques like Grad-CAM, SHAP, and LIME to ensure model transparency and interpretability.
-- 🌍 [AI Agent Sandbox](https://github.com/lokesh8n8/AI-Agent-Playground): Experimental framework for autonomous agents and multi-agent coordination.
+- 🌍 [AI Agent Sandbox](https://github.com/lokesh8n8/AI-Agent-Playground)
+   Experimental framework for autonomous agents and multi-agent coordination.
 
 ---
 
